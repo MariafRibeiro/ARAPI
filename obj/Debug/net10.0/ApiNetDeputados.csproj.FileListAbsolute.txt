@@ -57,7 +57,6 @@ C:\Users\VítorRibeiro\Downloads\ApiNetDeputados\bin\Debug\net10.0\runtimes\win\
 C:\Users\VítorRibeiro\Downloads\ApiNetDeputados\bin\Debug\net10.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 E:\git projetos\ARAPI-1\bin\Debug\net10.0\appsettings.json
 E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.staticwebassets.endpoints.json
-E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.exe
 E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.deps.json
 E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.runtimeconfig.json
 E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.dll
@@ -113,3 +112,4 @@ E:\git projetos\ARAPI-1\obj\Debug\net10.0\refint\ApiNetDeputados.dll
 E:\git projetos\ARAPI-1\obj\Debug\net10.0\ApiNetDeputados.pdb
 E:\git projetos\ARAPI-1\obj\Debug\net10.0\ApiNetDeputados.genruntimeconfig.cache
 E:\git projetos\ARAPI-1\obj\Debug\net10.0\ref\ApiNetDeputados.dll
+E:\git projetos\ARAPI-1\bin\Debug\net10.0\ApiNetDeputados.exe
