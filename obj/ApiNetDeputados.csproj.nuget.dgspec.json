@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\VítorRibeiro\\Downloads\\ApiNetDeputados\\ApiNetDeputados.csproj": {}
+    "E:\\git projetos\\ARAPI-1\\ApiNetDeputados.csproj": {}
   },
   "projects": {
-    "C:\\Users\\VítorRibeiro\\Downloads\\ApiNetDeputados\\ApiNetDeputados.csproj": {
+    "E:\\git projetos\\ARAPI-1\\ApiNetDeputados.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\VítorRibeiro\\Downloads\\ApiNetDeputados\\ApiNetDeputados.csproj",
+        "projectUniqueName": "E:\\git projetos\\ARAPI-1\\ApiNetDeputados.csproj",
         "projectName": "ApiNetDeputados",
-        "projectPath": "C:\\Users\\VítorRibeiro\\Downloads\\ApiNetDeputados\\ApiNetDeputados.csproj",
-        "packagesPath": "C:\\Users\\VítorRibeiro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\VítorRibeiro\\Downloads\\ApiNetDeputados\\obj\\",
+        "projectPath": "E:\\git projetos\\ARAPI-1\\ApiNetDeputados.csproj",
+        "packagesPath": "C:\\Users\\Ângelo\\.nuget\\packages\\",
+        "outputPath": "E:\\git projetos\\ARAPI-1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\VítorRibeiro\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Ângelo\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net10.0"
@@ -24,7 +24,6 @@
         },
         "frameworks": {
           "net10.0": {
-            "framework": "net10.0",
             "targetAlias": "net10.0",
             "projectReferences": {}
           }
@@ -39,11 +38,10 @@
           "auditLevel": "low",
           "auditMode": "all"
         },
-        "SdkAnalysisLevel": "10.0.300"
+        "SdkAnalysisLevel": "10.0.100"
       },
       "frameworks": {
         "net10.0": {
-          "framework": "net10.0",
           "targetAlias": "net10.0",
           "dependencies": {
             "MySql.Data": {
@@ -74,7 +72,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.302/PortableRuntimeIdentifierGraph.json",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.103/PortableRuntimeIdentifierGraph.json",
           "packagesToPrune": {
             "Microsoft.AspNetCore": "(,10.0.32767]",
             "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
